@@ -1,0 +1,27 @@
+{
+  "name": "reactwebpacktutorial",
+  "version": "1.0.0",
+  "description": "Learn React and Webpack From http://jansoren.github.io/react-webpack-tutorial/",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReiiYuki/React-Webpack-Learn.git"
+  },
+  "keywords": [
+    "webpack",
+    "react",
+    "starter"
+  ],
+  "author": "Reii Yuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReiiYuki/React-Webpack-Learn/issues"
+  },
+  "homepage": "https://github.com/ReiiYuki/React-Webpack-Learn#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
